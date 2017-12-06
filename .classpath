@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/json-lib-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/jars required for airship webservice/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
